@@ -1,0 +1,37 @@
+* {
+  font-family: "Inter";
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  width: 1440px;
+  border: 1px solid red;
+  margin: 0 auto;
+}
+
+.hero-obj {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+}
+
+.hero-form label, .hero-form p, .hero-form span, .hero-form input[type=text] {
+  font-size: 18px;
+}
+.hero-form button {
+  padding: 6px 12px;
+  background-color: #636363;
+  border: none;
+  border-radius: 8px;
+  font-size: 18px;
+  font-weight: 700;
+  color: #fbfbfb;
+}
+
+.hero .hero-txt {
+  text-align: center;
+}
+.hero .hero-img img {
+  width: 100px;
+}/*# sourceMappingURL=main.css.map */
